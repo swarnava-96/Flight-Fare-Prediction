@@ -1,0 +1,16 @@
+body {
+    background-image: url("boeing_747_8_intercontinental-wallpaper-1600x900.JPG");;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
