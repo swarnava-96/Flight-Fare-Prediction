@@ -1,15 +1,23 @@
 # Flight-Fare-Prediction
 
+
+## Overview
+This is a Flask web app which flight fare prices.
+
+
 ## Installation
 The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
-``
+```
 
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download Hroku CLI to manually deploy this project.
+
+## Deployement on AWS Ec2 instance
+Login or signup in order to create virtual app. You can access the free tier. For application deployment you have to install Putty,Puttygen and WinSCP.
+
 
 ## Frontend Using Flask and HTML and CSS
+
 
 http://ec2-13-58-188-11.us-east-2.compute.amazonaws.com:8080/
 
@@ -34,5 +42,5 @@ Application is currently stopped as it is chargeable.
 - [ ] Deploying the Web Application on Cloud.
      - [ ] Google Cloud 
      - [ ] Azure
-    
+     
 
