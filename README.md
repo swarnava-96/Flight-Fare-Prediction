@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Login or signup in order to create virtual app. You can access the free tier. For application deployment you have to install Putty,Puttygen and WinSCP.
 
 
-## Frontend Using Flask and HTML and CSS
+## Frontend Using Flask, HTML and CSS
 
 
 http://ec2-13-58-188-11.us-east-2.compute.amazonaws.com:8080/
