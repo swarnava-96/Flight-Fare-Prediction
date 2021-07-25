@@ -2,7 +2,7 @@
 
 
 ## Overview
-This is a Flask web app which flight fare prices.
+This is a Flask web app which predicts flight fare prices.
 
 ## Dataset
 https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
